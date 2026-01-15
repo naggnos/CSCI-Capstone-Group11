@@ -1,3 +1,3 @@
-# CSCI-Capstone-Group11
-# Team Members: 
+CSCI-Capstone-Group11
+Team Members: 
 Gan Song
